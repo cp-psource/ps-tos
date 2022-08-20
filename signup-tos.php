@@ -4,7 +4,7 @@ Plugin Name: PS-Nutzungsbedingungen
 Plugin URI: https://n3rds.work/piestingtal_source/ps-nutzungsbedingungen-plugin/
 Description: Dieses Plugin platziert ein Feld mit Nutzungsbedingungen auf dem Anmeldeformular für WP Seiten, WP Multisite oder BuddyPress und zwingt den Benutzer, das zugehörige Kontrollkästchen zu aktivieren, um fortzufahren
 Author: WMS N@W
-Version: 1.4.2
+Version: 1.4.3
 Author URI: https://n3rds.work
 Network: true
 */
