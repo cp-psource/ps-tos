@@ -26,11 +26,11 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-require 'psource-dash/psource-plugin-update/plugin-update-checker.php';
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
 $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=ps-tos', //Metadata URL.
-	__FILE__, //Full path to the main plugin file.
-	'ps-tos' //Plugin slug. Usually it's the same as the name of the directory.
+	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=ps-tos', 
+	__FILE__, 
+	'ps-tos' 
 );
 
 //------------------------------------------------------------------------//
@@ -62,7 +62,7 @@ function signup_tos_localization() {
  * Adds an entry in Dashboard
  */
 function signup_tos_plug_pages() {
-	$title    = __( 'Nutzungsbedingungen', 'tos' );
+	$title    = __( 'PS-TOS', 'tos' );
 	$slug     = 'signup-tos';
 	$callback = 'signup_tos_page_main_output';
 
@@ -105,7 +105,7 @@ function signup_tos_shortcode( $atts ) {
 	if ( ! $multisite ) {
 		$style = "max-height:150px; overflow:auto; padding:10px; font-size:80%;";
 	} else {
-		$style = "background-color:white; border:1px gray inset; font-size:80%; margin-bottom: 10px; max-height:80px; overflow:auto; padding:5px;";
+		$style = "background-color:white; border:1px gray inset; font-size:80%; margin-bottom: 10px; max-height:800px; min-height:80px; overflow:auto; padding:5px;";
 	} ?>
 	<div id="tos_content" style="<?php echo $style; ?>"><?php echo wpautop( $signup_tos ) ?></div>
 

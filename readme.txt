@@ -4,7 +4,7 @@ Donate link: https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free
 Tags: multisite, wiki, wikipedia
 Requires at least: 4.9
 Tested up to: 5.6
-Stable tag: 1.4.2
+Stable tag: 1.4.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -50,6 +50,12 @@ Wie wärs? Möchtest Du uns mit einer Kaffee-Spende bei der Arbeit an unseren Pl
 Mach eine [Spende per Überweisung oder PayPal](https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free-werke/) wir Danken Dir!
 
 == ChangeLog ==
+
+= 1.4.3 = DerN3rd =
+
+* Style Fix
+* Menü-Name 
+* Psource Updater v1.1
 
 = 1.4.2 = DerN3rd =
 
