@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CP-TOS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-07 21:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-4.9.22\n"
+"X-Domain: cp-tos"
+
+#: signup-tos.php:250
+msgid ""
+"<strong>ERROR</strong>: Du musst den Nutzungsbedingungen zustimmen, um Dich "
+"anmelden zu können."
+msgstr ""
+
+#: signup-tos.php:283
+msgid ""
+"Bitte gib hier den Text für Deine Nutzungsbedingungen ein. Es wird auf der "
+"Multisite-Seite wp-signup.php oder im BuddyPress-Registrierungsformular "
+"angezeigt. Du kannst auch den Shortcode [signup-tos] in Deinen Posts oder "
+"Seiten verwenden. Beachte dass Du das Kontrollkästchen aktivieren kannst "
+"(obwohl es nicht funktionsfähig ist), indem Du dem Shortcode das "
+"entsprechende Argument hinzufügst [signup-tos checkbox=\"1\"]."
+msgstr ""
+
+#. Name of the plugin
+msgid "CP-TOS"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Dieses Plugin platziert ein Feld mit Nutzungsbedingungen auf dem "
+"Anmeldeformular für WP Seiten, WP Multisite oder BuddyPress und zwingt den "
+"Benutzer, das zugehörige Kontrollkästchen zu aktivieren, um fortzufahren"
+msgstr ""
+
+#: signup-tos.php:217 signup-tos.php:240
+msgid "Du musst den Nutzungsbedingungen zustimmen, um Dich anmelden zu können."
+msgstr ""
+
+#: signup-tos.php:270
+msgid "Einstellungen gespeichert."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://n3rds.work"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://n3rds.work/piestingtal_source/ps-nutzungsbedingungen-plugin/"
+msgstr ""
+
+#: signup-tos.php:173
+msgid "Ich  stimme zu"
+msgstr ""
+
+#: signup-tos.php:137
+msgid "Ich stimme zu"
+msgstr ""
+
+#: signup-tos.php:118 signup-tos.php:170 signup-tos.php:276
+msgid "Nutzungsbedingungen"
+msgstr ""
+
+#: signup-tos.php:80
+msgid "CP-TOS"
+msgstr ""
+
+#. Author of the plugin
+msgid "WMS N@W"
+msgstr ""
+
+#: signup-tos.php:292
+msgid "Änderungen speichern"
+msgstr ""

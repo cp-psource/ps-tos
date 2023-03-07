@@ -1,7 +1,7 @@
-=== PS-Nutzungsbedingungen ===
+=== CP-TOS ===
 Contributors: DerN3rd (WMS N@W)
 Donate link: https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free-werke/
-Tags: multisite, wiki, wikipedia
+Tags: classicpress-plugin, classicpress, multisite, tos, nutzungsbedingungen
 Requires at least: 4.9
 Tested up to: 5.6
 Stable tag: 1.4.3
@@ -9,7 +9,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Dieses Plugin platziert ein Feld mit Nutzungsbedingungen auf dem Anmeldeformular für WP Seiten, WP Multisite oder BuddyPress und zwingt den Benutzer, das zugehörige Kontrollkästchen zu aktivieren, um fortzufahren
+Dieses Plugin platziert ein Feld mit Nutzungsbedingungen auf dem Anmeldeformular für CP Seiten, CP Multisite oder BuddyPress und zwingt den Benutzer, das zugehörige Kontrollkästchen zu aktivieren, um fortzufahren
 
 == Description ==
 
@@ -19,7 +19,7 @@ Füge der Anmeldeseite Deiner Webseite oder Deines Netzwerks die Nutzungsbedingu
 
 = Einfache Netzwerk-Integration =
 Die Nutzungsbedingungen gelten sowohl für neue Benutzer als auch für die Erstellung neuer Webseiten. 
-Dies macht sie zu einer hervorragenden Lösung für WordPress-, Multisite- und BuddyPress-Netzwerke. 
+Dies macht sie zu einer hervorragenden Lösung für ClassicPress-, Multisite- und BuddyPress-Netzwerke. 
 Keine kniffligen Einstellungen. Aktiviere einfach Deine Nutzungsbedingungen und füge sie in den Texteditor ein.
 
 = Splog Blocker hinzugefügt =
@@ -35,7 +35,7 @@ Es ist mühelos und wenn Besucher den Nutzungsbedingungen nicht zustimmen, wird 
 
 == Mehr PSOURCE ==
 
-Wirf einen Blick in unser [PSOURCE Sortiment](https://n3rds.work/psource_kategorien/psource-plugins/) und hole noch mehr aus Deinem WordPress/ClassicPress!
+Wirf einen Blick in unser [PSOURCE Sortiment](https://n3rds.work/psource_kategorien/psource-plugins/) und hole noch mehr aus Deinem ClassicPress/ClassicPress!
 
 Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswork-digalize-das-piestingtal/newsletter-management/) über unsere Piestingtal.Source informiert!
 
