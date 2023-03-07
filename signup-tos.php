@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: CP-TOS
-Plugin URI: https://n3rds.work/piestingtal_source/ps-nutzungsbedingungen-plugin/
+Plugin URI: https://n3rds.work/cp_psource/cp-tos-plugin/
 Description: Dieses Plugin platziert ein Feld mit Nutzungsbedingungen auf dem Anmeldeformular für CP Seiten, CP Multisite oder BuddyPress und zwingt den Benutzer, das zugehörige Kontrollkästchen zu aktivieren, um fortzufahren
 Author: WMS N@W
-Version: 1.4.3
+Version: 1.4.4
 Author URI: https://n3rds.work
 https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free-werke/
 Domain Path: /languages
